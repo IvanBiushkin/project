@@ -3,25 +3,17 @@
       <div id="js-pjax-container" data-pjax-container="">
         
 
-
+2222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222
 <div class="container-lg clearfix px-3 mt-4">
-  
 
-  <div class="h-card col-3 float-left pr-3" itemscope="" itemtype="http://schema.org/Person">
-
-    <div class="user-profile-sticky-bar js-user-profile-sticky-bar">
-      <div class="user-profile-mini-vcard d-table">
-        <span class="user-profile-mini-avatar d-table-cell v-align-middle lh-condensed-ultra pr-2">
-          <img class="rounded-1" height="32" width="32" alt="@IvanBiushkin" src="https://avatars2.githubusercontent.com/u/22592538?s=88&amp;v=4">
-        </span>
-        <span class="d-table-cell v-align-middle lh-condensed js-user-profile-following-mini-toggle">
-          <strong>IvanBiushkin</strong>
-          
+  <div class="p-note user-profile-bio js-user-profile-bio mb-3">
+  <div class="d-inline-block mb-3 js-user-profile-bio-contents d-none">
+  <div class="p-note user-profile-bio js-user-profile-bio mb-3">
+  <div class="d-inline-block mb-3 js-user-profile-bio-contents d-none">
+  <div class="p-note user-profile-bio js-user-profile-bio mb-3">
+  <div class="d-inline-block mb-3 js-user-profile-bio-contents d-none">
 
 
-        </span>
-      </div>
-    </div>
 
       <a class="u-photo d-block tooltipped tooltipped-s" aria-label="Change your avatar" href="/account"><img alt="" width="230" height="230" class="avatar width-full rounded-2" src="https://avatars1.githubusercontent.com/u/22592538?s=460&amp;v=4"></a>
 
